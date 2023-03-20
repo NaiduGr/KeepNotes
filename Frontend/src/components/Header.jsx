@@ -3,7 +3,7 @@ import "../App.css";
 function Header() {
   return (
     <header className="header">
-      <h1>Keeper</h1>
+      <h1>KeepNotes</h1>
     </header>
   );
 }
